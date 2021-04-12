@@ -109,7 +109,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-google_python/
+/.vscode
+/google_python_venv
 
 # Spyder project settings
 .spyderproject
@@ -128,3 +129,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#side program
+/files_not_upload
